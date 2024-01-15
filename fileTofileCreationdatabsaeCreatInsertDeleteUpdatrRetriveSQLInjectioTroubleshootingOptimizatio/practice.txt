@@ -1,0 +1,3 @@
+java is fun!
+I'm learning file management.
+Soon I can save data locally.
